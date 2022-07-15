@@ -1,0 +1,15 @@
+{
+  "name": "Discord-aarrbot",
+  "description": "bot",
+  "repository": "https://github.com/zearakun/verify",
+  "logo": "https://cdn.discordapp.com/avatars/967038043225727006/83179d8b6ac735298562b15b79284ff9.png?size=1024",
+  "keywords": [
+    "discord"
+  ],
+  "image": "heroku/python",
+  "buildpacks": [
+    {
+      "url": "heroku/python"
+    }
+  ]
+}
